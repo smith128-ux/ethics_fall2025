@@ -12,16 +12,15 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is [First Last]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+My name is Tony Smith. I’m a university student in the studying Computer Science and the Japanese Language at St. Olaf College. I am a multi-instrumentalist and I also like to cook eggs.
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+Game Design and Game Theory
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
+I was born December 1, 2004 in Chicago, IL. I had 4 dogs growing up and 2 older sisters. I have a love for indie games and music production, I also have a passion for drawing. I have been a software designer for the last 4 years. :-3
 
 
 For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
