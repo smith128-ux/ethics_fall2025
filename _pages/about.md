@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Name] Computes Ethics" #update to your name
+title: "Tony Smith Computes Ethics" 
 author_profile: true
 redirect_from: 
   - /about/
