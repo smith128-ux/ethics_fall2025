@@ -1,7 +1,7 @@
 ---
 title: ALG Blog 2: Crafting Arguments'
-date: 2025-09-21
-permalink: /posts/2025/09/ALG-blog-post-1/
+date: 2025-09-25
+permalink: /posts/2025/09/ALG-blog-post-2/
 tags:
   - argumentative
   - blog post 2
