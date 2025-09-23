@@ -1,7 +1,7 @@
 ---
-title: ETHICS Blog 2: Crafting Arguments'
+title: ALG Blog 2: Crafting Arguments'
 date: 2025-09-21
-permalink: /posts/2025/09/blog-post-2/
+permalink: /posts/2025/09/ALG-blog-post-1/
 tags:
   - argumentative
   - blog post 2
