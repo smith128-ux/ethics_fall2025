@@ -7,4 +7,4 @@ date: 2025-9-28
 audio: ethics_fall2025/files/ethics_podcast1_kelijah_tony.mp3
 video: ethics_fall2025/files/ethics_podcast1_audiogram.mp4
 ---
-Details about the podcast.
+Me and Kelijah have a brief discussion about ethical frameworks related to the fictional characters that we picked out (Superman, Hodor, Captain American, Thanos, Monkey D. Luffy, & Hermes Conrad). It was a lot of fun!
