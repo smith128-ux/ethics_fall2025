@@ -1,5 +1,5 @@
 ---
-title: "Podcast 1 (Featuring. Kelijah)"
+title: "Tony's Podcast 1 (Featuring. Kelijah)"
 collection: podcasts
 permalink: /podcasts/podcast1
 excerpt: "Let's chat about ethical frameworks for fictional characters!"

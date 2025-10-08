@@ -1,5 +1,5 @@
 ---
-title: "Podcast 2 (Featuring. Kelijah)"
+title: "Tony's Podcast 2 (Featuring. Kelijah)"
 collection: podcasts
 permalink: /podcasts/podcast2
 excerpt: "Let's chat about generative AI hiccups and hallucinations!"
