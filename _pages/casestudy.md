@@ -10,4 +10,4 @@ Drop spot for your case study work
 
 As loot boxes are normalized in video games, what are the ethical issues that arise?
 
-[Go to activity page] (activity/)
+[Go to activity page](activity/)
