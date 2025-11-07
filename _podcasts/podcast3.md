@@ -9,4 +9,4 @@ video: ethics_fall2025/files/audiogram3_ethics_kelijah_tony.mp4
 ---
 Me and Kelijah have a brief discussion about the ways that different AI models hallucinate and fabricate data, and how this effects the way AI can be used for research. Hope you enjoy!
 
-![it isn't working, boss](https://github.com/smith128-ux/ethics_fall2025/blob/master/files/images/podcast3_graphic.png)
+![it isn't working, boss](https://smith128-ux.github.io/ethics_fall2025/images/podcast3_graphic.png)
