@@ -4,4 +4,4 @@ layout: default
 ---
 Content for Abstract.
 
-[Go to definition & overview](casestudy/definition/)
+[Go to definition & overview](_casestudy/definition/)
