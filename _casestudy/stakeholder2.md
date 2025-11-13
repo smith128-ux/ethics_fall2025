@@ -12,3 +12,5 @@ Content for Stakeholder 2.
 
 
 [Go to interactive activity](https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/)
+
+[Go back to ethical concerns](https://smith128-ux.github.io/ethics_fall2025/casestudy/ethicalconcerns/)

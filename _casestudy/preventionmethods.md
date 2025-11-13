@@ -5,3 +5,5 @@ layout: default
 Content for preventing harm.
 
 [Go to conclusion](https://smith128-ux.github.io/ethics_fall2025/casestudy/conclusion/)
+
+[Go back to interactive activity](https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/)
