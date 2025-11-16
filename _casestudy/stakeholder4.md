@@ -10,6 +10,8 @@ Content for Stakeholder 4.
 
 [Go to stakeholder 3](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder3/)
 
+[Go to stakeholder 5](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder5/)
+
 
 [Go to interactive activity](https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/)
 
