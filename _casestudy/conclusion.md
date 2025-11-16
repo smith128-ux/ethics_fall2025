@@ -8,4 +8,4 @@ Content for Conclusion.
 
 [Go to citations](https://smith128-ux.github.io/ethics_fall2025/casestudy/citations/)
 
-[Go back to ways to prevent harm](https://smith128-ux.github.io/ethics_fall2025/casestudy/preventionmethods/)
+[Go back to potential solutions](https://smith128-ux.github.io/ethics_fall2025/casestudy/potentialsolutions/)
