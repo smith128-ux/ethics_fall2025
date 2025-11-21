@@ -2,7 +2,13 @@
 title: "Ethical Concerns"
 layout: default
 ---
-Content for Ethical Concerns.
+Problem gambling refers to a pattern of gambling engagement that is so extreme that it causes an individual to have important problems in various aspects of their life. It has been linked to depression, anxiety, bankruptcy, and suicidality. Problem gambling is considered to be a serious public health issue. Disordered gaming refers to a possible condition in which persistent and recurrent engagement with video games leads to significant impairment or distress.
+
+Loot boxes act as a blurring of lines between video games and gambling activities. Loot boxes share several formal features with gambling. Engagement with loot boxes has been repeatedly linked to problem gambling: the more that gamers use loot boxes, the more severe their gambling problems tend to be. Loot boxes may act as a gateway into subsequent gambling and/or problem gambling. The emergence of gambling in video games indicates a shift in traditional gambling communities as a younger, adolescent generation is exposed to gambling practices. The change also indicates a shift in industry as companies move from an ‘off-the-shelf’ game sales model, where the consumer purchases the game for a set price, to an online ‘free-to-play’ service model, where consumers can acquire the game for free but are presented with several in-game microtransactions. The major appeal in the latter model is the ability for companies to easily create and monetize assets cheaply, through an in-game store or subscription.
+
+The importance in discussing loot boxes lies in the lack of data and research on the relationship between video gameplay and gambling. Due to the correlational nature of the evidence, it is unknown what the direct relationships between loot boxes and gambling are. Historically, the fields of gambling studies and game studies have largely been treated as separate and distinct. It is only recently that the intersection between these two fields has begun to be considered. There is little data on how players might be drawn into gambling, and how this should be licensed and regulated, given the international reach of video games. Researchers have proposed that loot box spending may be linked to disordered gaming. Vulnerable players who play games to an excessive degree may be in a problematic situation.
+
+Now that we’ve clearly defined what loot boxes are, and the various ethical implications that arise, let’s look at the main stakeholders in this issue. Let’s look at who is directly or indirectly impacted by these issues, and what their concerns are.
 
 [Go to Stakeholder 1](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
 

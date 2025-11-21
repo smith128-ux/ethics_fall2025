@@ -1,8 +1,9 @@
 ---
-title: "Stakeholder 2"
+title: "Stakeholder 2: Young Adolescents"
 layout: default
 ---
-Content for Stakeholder 2.
+
+Loot boxes are an easy target for younger children who might not know any better, but there’s also an element of peer pressure and social conformity present. Loot boxes mainly reward cosmetic items, items that do not impact gameplay. These cosmetic items can include weapon skins, player models, accessories, etc. Kids may feel pressured into repeatedly opening loot boxes in hopes of showing off a rare item to their inner circle. 
 
 [Go to stakeholder 1](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
 
