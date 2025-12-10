@@ -7,10 +7,7 @@ Loot boxes come in many shapes and forms, though the initial idea remains the sa
 
 Content for your interactive activity.
 
-<button onclick="getRandomImage()">Show Image</button>
-<div class="container">
-  <span id="result" align="center"></span>
-</div>
+![it isn't working, boss](https://github.com/smith128-ux/ethics_fall2025/blob/master/images/cardpack_unopened.png)
 
 <a href="https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/"><img src="cardpack_unopened.png" alt="HTML tutorial" style="width:340px;height:420px;"></a>
 
