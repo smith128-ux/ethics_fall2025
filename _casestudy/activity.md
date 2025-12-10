@@ -7,6 +7,8 @@ Loot boxes come in many shapes and forms, though the initial idea remains the sa
 
 Content for your interactive activity.
 
+![it isn't working, boss](https://smith128-ux.github.io/ethics_fall2025/files/cardpack_unopened.png)
+
 <button onclick="goToRandomPage()">Go to Random Page</button>
 
 <script>
