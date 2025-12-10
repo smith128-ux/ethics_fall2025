@@ -7,6 +7,7 @@ Loot boxes come in many shapes and forms, though the initial idea remains the sa
 
 Content for your interactive activity.
 
+<script>
 function getRandomImage() {
   //declare an array to store the images
   var randomImage = new Array();
@@ -25,6 +26,7 @@ function getRandomImage() {
     document.getElementById("result").innerHTML += '<a href="' + randomImage[number] + '"><img src="' + randomImage[number] + '" style="width:450px" /></a>';
   }
 }
+</script>
 
 <button onclick="getRandomImage()">Show Image</button>
 <div class="container">
