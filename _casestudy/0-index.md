@@ -1,6 +1,5 @@
 ---
 permalink: /casestudy/
-nav_order: 0
 title: "Understanding 'Loot Boxes': From Gaming to Gambling"
 author_profile: true
 ---
