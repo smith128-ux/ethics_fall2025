@@ -7,7 +7,20 @@ Loot boxes come in many shapes and forms, though the initial idea remains the sa
 
 Content for your interactive activity.
 
-![it isn't working, boss](images/cardpack_unopened.png)
+<button onclick="goToRandomPage()">Go to Random Page</button>
+
+<script>
+    const pageUrls = [
+        "https://smith128-ux.github.io/ethics_fall2025/casestudy/ethicalconcerns/",
+        "https://smith128-ux.github.io/ethics_fall2025/casestudy/abstract/",
+        "https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/"
+    ];
+
+    function goToRandomPage() {
+        const randomIndex = Math.floor(Math.random() * pageUrls.length);
+        window.location.href = pageUrls[randomIndex];
+    }
+</script>
 
 <a href="https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/"><img src="cardpack_unopened.png" alt="HTML tutorial" style="width:340px;height:420px;"></a>
 
