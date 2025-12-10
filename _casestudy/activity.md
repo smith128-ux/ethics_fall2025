@@ -24,9 +24,9 @@ Content for your interactive activity.
     }
 </script>
 
-<a href="https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/"><img src="cardpack_unopened.png" alt="HTML tutorial" style="width:340px;height:420px;"></a>
+<a href="https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/"><img src="files/cardpack_unopened.png/" alt="HTML tutorial" style="width:340px;height:420px;"></a>
 
-<a href="https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/"><img src="https://github.com/smith128-ux/ethics_fall2025/images/cardpack_unopened.png" alt="HTML tutorial" style="width:340px;height:420px;"></a>
+<a href="https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/"><img src="https://github.com/smith128-ux/ethics_fall2025/files/cardpack_unopened.png" alt="HTML tutorial" style="width:340px;height:420px;"></a>
 
 [Go to potential solutions](https://smith128-ux.github.io/ethics_fall2025/casestudy/potentialsolutions/)
 
