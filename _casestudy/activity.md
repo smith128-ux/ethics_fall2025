@@ -12,7 +12,7 @@ Content for your interactive activity.
   <span id="result" align="center"></span>
 </div>
 
-<a href="default.asp"><img src="cardpack_unopened.png" alt="HTML tutorial" style="width:420px;height:42px;"></a>
+<a href="default.asp"><img src="cardpack_unopened.png" alt="HTML tutorial" style="width:340px;height:420px;"></a>
 
 <a href="default.asp"><img src="![cardpack_unopened.png](https://github.com/smith128-ux/ethics_fall2025/blob/master/images/cardpack_unopened.png)" alt="HTML tutorial" style="width:420px;height:42px;"></a>
 
