@@ -8,6 +8,6 @@ author_profile: true
 
 As loot boxes are normalized in video games, what are the ethical issues that arise?
 
-![it isn't working, boss](files/casestudy_art.png)
+![it isn't working, boss](/files/casestudy_art.png)
 
 [Go to abstract](abstract/)
