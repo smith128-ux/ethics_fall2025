@@ -13,9 +13,9 @@ function getRandomImage() {
   var randomImage = new Array();
 
   //insert the URL of images in array
-  randomImage[1] =  "frames/1.png";  //this needs to have a link
-  randomImage[2] =  "frames/2.png";  //this needs to have a link
-  randomImage[3] =  "frames/3.png";  //this needs to have a link
+  randomImage[1] =  "https://github.com/smith128-ux/ethics_fall2025/blob/master/images/cardpack_card1.png";  //this needs to have a link
+  randomImage[2] =  "https://github.com/smith128-ux/ethics_fall2025/blob/master/images/cardpack_card2.png";  //this needs to have a link
+  randomImage[3] =  "https://github.com/smith128-ux/ethics_fall2025/blob/master/images/cardpack_card3.png";  //this needs to have a link
 
   //loop to display five randomly chosen images at once
   for (let i = 0; i < 1; i++) {
@@ -28,6 +28,11 @@ function getRandomImage() {
 }
 
 ```
+
+<button onclick="getRandomImage()">Show Image</button>
+<div class="container">
+  <span id="result" align="center"></span>
+</div>
 
 
 [Go to potential solutions](https://smith128-ux.github.io/ethics_fall2025/casestudy/potentialsolutions/)
