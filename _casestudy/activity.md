@@ -7,7 +7,7 @@ Loot boxes come in many shapes and forms, though the initial idea remains the sa
 
 Content for your interactive activity.
 
-![it isn't working, boss](https://github.com/smith128-ux/ethics_fall2025/images/cardpack_unopened.png)
+![it isn't working, boss](images/cardpack_unopened.png)
 
 <a href="https://smith128-ux.github.io/ethics_fall2025/casestudy/activity/"><img src="cardpack_unopened.png" alt="HTML tutorial" style="width:340px;height:420px;"></a>
 
