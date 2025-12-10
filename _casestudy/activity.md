@@ -9,7 +9,7 @@ Content for your interactive activity.
 
 ![it isn't working, boss](https://smith128-ux.github.io/ethics_fall2025/files/cardpack_unopened.png)
 
-<button onclick="goToRandomPage()">Go to Random Page</button>
+<button style="background: cardpack_unopened.png" onclick="goToRandomPage()">Go to Random Page</button>
 
 <script>
     const pageUrls = [
