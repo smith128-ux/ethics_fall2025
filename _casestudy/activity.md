@@ -3,7 +3,7 @@ title: "Interactive Activity"
 layout: default
 ---
 
-Loot boxes come in many shapes and forms, though the initial idea remains the same, A virtual ‘box’ containing trivial in-game items based on RNG (random number generators).
+Loot boxes come in many shapes and forms, though the initial idea remains the same, A virtual ‘box’ containing trivial in-game items based on RNG (random number generators). It's all loot boxes!
 
 Content for your interactive activity.
 
