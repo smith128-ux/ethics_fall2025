@@ -275,10 +275,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _casestudy
+  # _portfolio
   - scope:
       path: ""
-      type: casestudy
+      type: portfolio
     values:
       layout: single
       author_profile: true
