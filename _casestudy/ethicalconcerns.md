@@ -10,6 +10,6 @@ The importance in discussing loot boxes lies in the lack of data and research on
 
 Now that we’ve clearly defined what loot boxes are, and the various ethical implications that arise, let’s look at the main stakeholders in this issue. Let’s look at who is directly or indirectly impacted by these issues, and what their concerns are.
 
-[Go to Stakeholder 1](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
+[Go back to Stakeholder 1: Parents](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
 
 [Go back to Definition and Overview](https://smith128-ux.github.io/ethics_fall2025/casestudy/definition/)
