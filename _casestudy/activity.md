@@ -13,9 +13,9 @@ Content for your interactive activity.
 
 <script>
     const pageUrls = [
-        "https://smith128-ux.github.io/ethics_fall2025/casestudy/ethicalconcerns/",
-        "https://smith128-ux.github.io/ethics_fall2025/casestudy/abstract/",
-        "https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/"
+        "https://smith128-ux.github.io/ethics_fall2025/casestudy/example1/",
+        "https://smith128-ux.github.io/ethics_fall2025/casestudy/example2/",
+        "https://smith128-ux.github.io/ethics_fall2025/casestudy/example3/"
     ];
 
     function goToRandomPage() {
