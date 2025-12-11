@@ -1,6 +1,5 @@
 ---
 title: "Abstract"
-layout: default
 author_profile: true
 ---
 
