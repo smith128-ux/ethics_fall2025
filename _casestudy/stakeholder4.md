@@ -7,7 +7,7 @@ The traditional model of releasing games for a set price has largely fallen out 
 
 [Go to stakeholder 1: Parents](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
 
-[Go to stakeholder 2: Young Adolescents](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
+[Go to stakeholder 2: Young Adolescents](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder2/)
 
 [Go to stakeholder 3: Gambling Addicts](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder3/)
 

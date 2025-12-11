@@ -7,7 +7,7 @@ People with a history of gambling problems are especially vulnerable to loot box
 
 [Go to stakeholder 1: Parents](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
 
-[Go to stakeholder 2: Young Adolescents](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder1/)
+[Go to stakeholder 2: Young Adolescents](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder2/)
 
 [Go to stakeholder 4: Gaming Companies](https://smith128-ux.github.io/ethics_fall2025/casestudy/stakeholder4/)
 

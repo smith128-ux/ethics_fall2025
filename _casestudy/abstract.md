@@ -1,7 +1,6 @@
 ---
 title: "Abstract"
 layout: default
-type: pages
 author_profile: true
 ---
 
