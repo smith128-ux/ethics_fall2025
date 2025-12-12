@@ -3,6 +3,8 @@ title: "Ways to Prevent Harm"
 layout: default
 ---
 
+Was that annoying? Trying to get what you want from loot boxes while fighting random chance is frustrating.
+
 This section aims to devise a few solutions that developers can put in place to prevent problem gambling and disordered gaming. 
 
 Probability Disclosure:
